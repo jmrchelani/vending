@@ -1,0 +1,12 @@
+{
+    "user": "wuzi",
+    "repo": "vending",
+    "entry": "test.pwn",
+    "output": "test.amx",
+    "dependencies": [
+       
+    ],
+    "dev_dependencies": [
+      
+    ]
+}
